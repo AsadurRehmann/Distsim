@@ -1,5 +1,7 @@
 # DistSim
 
+live link: https://distsim.vercel.app/
+
 **Interactive Distributed Systems Laboratory**
 
 DistSim is a browser-based visual simulator for designing, running, and stress-testing distributed systems in real time. It allows engineers, students, and researchers to observe how distributed protocols behave under normal operation and under fault conditions — without writing a single line of infrastructure code.
